@@ -1,0 +1,11 @@
+.vscode
+
+*.dll
+
+*.pdb
+
+bin
+
+obj
+
+wwwroot
